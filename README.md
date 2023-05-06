@@ -6,3 +6,14 @@ As we usually need to go to chatgpt whenever we want to ask any query. By this e
 
 Video:
 https://drive.google.com/file/d/1BT-L_rS7--y_xUrvFwJjnu5eqQ54G4xn/view?usp=sharing
+
+
+Steps to setup:
+Clone the repo.
+Go to chrome, Extension
+Click on the button on the top left of the page that says "Load unpacked".
+Then select a folder that contains the manifest.json file
+
+Now you can see the extension.
+
+Use Buddy extension easily to make life more productive.
